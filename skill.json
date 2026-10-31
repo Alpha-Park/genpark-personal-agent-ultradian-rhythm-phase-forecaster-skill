@@ -1,0 +1,10 @@
+{
+  "name": "genpark-personal-agent-ultradian-rhythm-phase-forecaster-skill",
+  "version": "1.0.0",
+  "description": "Personal Agent Ultradian Rhythm Phase Forecaster - Zero-dependency 90-minute harmonic cycle decomposition, two-process sleep-wakefulness alertness forecaster, and restorative power-nap window calculator.",
+  "tools": [
+    "forecast_ultradian_energy_windows",
+    "evaluate_two_process_alertness",
+    "calculate_optimal_nap_window"
+  ]
+}
